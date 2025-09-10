@@ -1,1 +1,1 @@
-# omsakthi-friends
+# friends Assignments
